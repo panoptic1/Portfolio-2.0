@@ -1,7 +1,28 @@
-
+body {
+    background-color: black;
+    margin-top: 50px;
+}
 
 img {
     height: 300px;
     display: block;
     width: 100%;
+    padding: 2px;
+    border: 2px solid salmon;
+    background-color: darkcyan;
+}
+
+.main {
+    color: blanchedalmond;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+.nav {
+    background: purple;
+}
+
+.jumbotron {
+    color:red;
+    background: white;
+    font-family: 'Permanent Marker', cursive; 
 }
